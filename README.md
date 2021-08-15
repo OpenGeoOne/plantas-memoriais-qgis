@@ -1,5 +1,5 @@
 # plantas-memoriais-qgis
-Plantas e Memoriais Descritivos no QGIS (material de apoio ao curso)
+Plantas e Memoriais Descritivos no QGIS (material de apoio ao livro)
 
 😫Muitos Profissionais de Topografia gastam muito tempo e tem um
 trabalho imenso para:<br>
@@ -32,18 +32,17 @@ precisar mais pagar um valor consider&aacute;vel 💸 com
 licen&ccedil;as para a realiza&ccedil;&atilde;o desse tipo
 de atividade.<br>
 <br>
-Acesse o curso atrav&eacute;s do link abaixo:<br>
+Acesse o livro atrav&eacute;s do link abaixo:<br>
 <div style="text-align: center;"><a
- href="https://www.hotmart.com/product/geoone-crie-plantas-baixas-no-qgis-e-sua-documentacao-em-apenas-2-cliques/P51446268E"><img
+ href="https://www.amazon.com/gp/product/B09B9LMD6M"><img
  style="border: 2px solid ;" alt="Cuso da GeoOne"
  title="cique aqui!"
- src="https://trello-attachments.s3.amazonaws.com/5e666cf8d36e5c5a95542da9/61055a03d4fe2d7d00c74cad/2f1d0210072d0093fc753ecac6441cf7/curso_capa.jpg"></a>
+ src="https://trello.com/1/cards/60fdcb1fa07f083adda4de95/attachments/60feb79ecc44ec5f5678f619/download/Livro_-_Plantas_e_Memoriais_Descritivos_no_QGIS_PDF.jpg"></a>
 <br>
 </div>
 <div style="text-align: center;"><a
  style="font-weight: bold;"
- href="https://www.hotmart.com/product/geoone-crie-plantas-baixas-no-qgis-e-sua-documentacao-em-apenas-2-cliques/P51446268E">Curso
-de Elabora&ccedil;&atilde;o de Plantas Topogr&aacute;ficas
+ href="https://www.amazon.com/gp/product/B09B9LMD6M">E-book na Amazon: Plantas Topogr&aacute;ficas
 e Memoriais Descritivos no QGIS</a></div>
 
 
