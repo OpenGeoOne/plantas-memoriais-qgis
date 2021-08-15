@@ -35,9 +35,9 @@ de atividade.<br>
 Acesse o livro atrav&eacute;s do link abaixo:<br>
 <div style="text-align: center;"><a
  href="https://www.amazon.com/gp/product/B09B9LMD6M"><img
- style="border: 2px solid ;" alt="Cuso da GeoOne"
+ style="border: 2px solid ;" alt="E-book da GeoOne"
  title="cique aqui!"
- src="https://trello.com/1/cards/60fdcb1fa07f083adda4de95/attachments/60feb79ecc44ec5f5678f619/download/Livro_-_Plantas_e_Memoriais_Descritivos_no_QGIS_PDF.jpg"></a>
+ src="https://m.media-amazon.com/images/I/51BQ2N601GL.jpg"></a>
 <br>
 </div>
 <div style="text-align: center;"><a
