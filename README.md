@@ -1,5 +1,4 @@
-# plantas-memoriais-qgis
-Plantas e Memoriais Descritivos no QGIS (material de apoio ao livro)
+# Plantas e Memoriais Descritivos no QGIS (material de apoio ao livro)
 
 😫Muitos Profissionais de Topografia gastam muito tempo e tem um
 trabalho imenso para:<br>
