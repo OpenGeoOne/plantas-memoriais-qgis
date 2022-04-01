@@ -41,7 +41,7 @@ Acesse o livro atrav&eacute;s do link abaixo:<br>
 </div>
 <div style="text-align: center;"><a
  style="font-weight: bold;"
- href="https://www.amazon.com/gp/product/B09B9LMD6M">E-book na Amazon: Plantas Topogr&aacute;ficas
+ href="https://pay.hotmart.com/next/E65726094A">E-book na Amazon: Plantas Topogr&aacute;ficas
 e Memoriais Descritivos no QGIS</a></div>
 
 
