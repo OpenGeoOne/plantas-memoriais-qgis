@@ -33,7 +33,7 @@ de atividade.<br>
 <br>
 Acesse o livro atrav&eacute;s do link abaixo:<br>
 <div style="text-align: center;"><a
- href="https://www.amazon.com/gp/product/B09B9LMD6M"><img
+ href="https://pay.hotmart.com/next/E65726094A"><img
  style="border: 2px solid ;" alt="E-book da GeoOne"
  title="cique aqui!"
  src="https://m.media-amazon.com/images/I/51BQ2N601GL.jpg"></a>
